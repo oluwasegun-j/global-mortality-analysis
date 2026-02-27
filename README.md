@@ -1,9 +1,12 @@
 📊 Global Mortality Analysis
+
 Overview
+
 This project analyzes mortality rates across countries and years using structured population and mortality datasets.
 The objective was to calculate standardized death rates per 100,000 population to enable meaningful cross-country comparisons across major age bands.
 ________________________________________
 Dataset
+
 The analysis uses:
 •	Mortality counts by age group and year
 •	Population counts by age group and year
